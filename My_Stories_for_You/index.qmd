@@ -1,12 +1,48 @@
-# My Stories for You
+## My Stories for You
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+Saya adalah Adrian Akhdan Assyauqi, mahasiswa Program Studi Sistem dan Teknologi Informasi di Institut Teknologi Bandung. Saat ini saya berada di semester 3 dan bersyukur dapat mempertahankan IPK 4.0 selama dua semester pertama. Bagi saya, angka itu bukan sekadar capaian akademik, tetapi bukti dari konsistensi, disiplin, dan semangat untuk terus belajar tanpa meninggalkan nilai-nilai integritas.
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+Saya percaya bahwa ilmu teknologi bukan hanya untuk kemajuan pribadi, tetapi juga untuk menciptakan manfaat nyata bagi banyak orang.  
+Dari situ, saya berusaha mengembangkan diri agar tidak hanya memahami teori, melainkan juga mampu menerapkannya dalam solusi yang berdampak.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+---
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+## Awal Perjalanan dan Motivasi
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+Saya tidak datang dari latar belakang yang penuh dengan pengalaman organisasi atau sertifikat prestasi. Justru dari kekurangan itu saya belajar arti kerja keras dan ketekunan. Saya memilih berfokus pada proses belajar dan pengalaman yang bisa mengasah kemampuan berpikir serta kepekaan sosial.
+
+Salah satu alasan utama saya menekuni bidang ini adalah keinginan untuk meringankan beban orang tua,  
+sekaligus mengasah diri agar bisa menjadi seseorang yang bermanfaat di masa depan.
+
+---
+
+## Prinsip dan Nilai Hidup
+
+Saya selalu berpegang pada prinsip: hasil nyata lebih berharga daripada banyak bicara. Dalam setiap tugas atau proyek, saya berusaha memetakan masalah secara sistematis, merancang solusi yang masuk akal, dan terus memperbaikinya berdasarkan masukan.
+
+Saya percaya bahwa kerja keras dan keinginan belajar terus-menerus adalah kunci agar saya bisa tumbuh menjadi pribadi yang andal dan rendah hati.
+
+---
+
+## Kisah Inspiratif: Dari Langkah Kecil Menuju Dampak Nyata
+
+Ada satu momen yang saya ingat jelas. Saat menguji prototipe sistem irigasi didalam sebuah proyek kecil di lahan percobaan kecil, saya sempat ragu karena alat yang saya buat masih sederhana. Namun, setelah beberapa kali perbaikan, sistem itu akhirnya bekerja sesuai harapan. Sensor berhasil mengatur penyiraman sesuai tingkat kelembapan tanah, dan panel surya menyediakan daya cukup sepanjang hari.
+
+Rasanya luar biasa melihat sesuatu yang saya buat sendiri bisa berfungsi dan memberi manfaat nyata, meskipun dalam skala kecil.  
+
+Dari pengalaman itu saya belajar bahwa keberhasilan tidak selalu datang dari proyek besar atau fasilitas lengkap. Kadang, kemauan untuk mencoba dan memperbaiki diri justru menjadi titik awal perubahan yang lebih besar. Saya ingin terus menjaga semangat itu, agar setiap langkah kecil saya bisa memberi dampak positif bagi orang lain.
+
+---
+
+## Refleksi Pribadi
+
+Jika saya melihat perjalanan saya sejauh ini, satu hal yang paling saya syukuri adalah kesempatan untuk belajar bukan hanya tentang teknologi, tetapi juga tentang kehidupan.  
+Saya belajar bahwa kegigihan, rasa ingin tahu, dan kemampuan untuk beradaptasi adalah bekal paling berharga. Saya tidak sempurna, tapi saya selalu berusaha menjadi versi terbaik dari diri saya setiap harinya.
+
+---
+
+## Penutup
+
+Saya percaya bahwa setiap orang punya kisah perjuangan yang unik. Kisah saya mungkin sederhana, tapi saya berharap dapat menginspirasi orang lain untuk mulai dari apa yang mereka punya, bekerja keras dengan integritas, dan tidak takut untuk mencoba.  
+
+Karena pada akhirnya, perubahan besar selalu dimulai dari langkah-langkah kecil yang dilakukan dengan niat baik.
