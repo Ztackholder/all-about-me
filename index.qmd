@@ -1,13 +1,78 @@
 # All About Me
 
-![About Me](images/foto_diri.jpg){width=950%}
+![About Me](images/foto_diri.jpg){width=90%}
 
-Adrian Akhdan Assyauqi adalah Mahasiswa di Sekolah Teknik Elektro dan Informatika ITB tepatnya di jurusan Sistem dan Teknologi Informasi, memasuki ITB dari tahun 2024, saat ini berorganisasi di 2 tempat yaitu Unit Bulu Tangkis (UBT) sebagai staff Manajemen Sumber Daya Anggota (MSDA) periode 2025/2026 dan Himpunan Mahasiswa Informatika sebagai staff komisi pengawasan periode 2025/2026.
+Saya adalah Adrian Akhdan Assyauqi, mahasiswa Sistem dan Teknologi Informasi di Sekolah Teknik Elektro dan Informatika, Institut Teknologi Bandung (ITB). Saya diterima di ITB pada tahun 2024, dan kini sedang menjalani semester tiga.
 
-Lahir di Bekasi 2006 dari pasangan Jawa. Merupakan anak kedua dari dua bersaudara. Bertempat tinggal di Karawang saat masih kecil dan sekarang tinggal di Bandung.
+---
 
-Social Media: 
+## Tentang Saya
 
-- Instagram: adrian_assyauqi 
-- Email: adrianassyauqi@gmail.com
+Saya cenderung melihat dunia dengan rasa ingin tahu yang besar dan semangat untuk memahami bagaimana sesuatu bekerja baik sistem, teknologi, maupun manusia di baliknya. Saya menikmati keseimbangan antara berpikir logis dan berefleksi secara emosional. Di satu sisi, saya senang memecahkan masalah teknis; di sisi lain, saya suka mencari makna dari setiap hal kecil yang saya lakukan.
 
+Saya percaya bahwa belajar tidak selalu terjadi di ruang kelas. Kadang justru dari percakapan sederhana, kesalahan kecil, atau pengalaman yang tidak terduga, kita menemukan hal-hal yang paling membentuk diri.  
+
+> *"Saya ingin belajar bukan untuk menjadi yang paling tahu, tetapi untuk menjadi yang paling memahami."*
+
+---
+
+## Nilai dan Prinsip Hidup
+
+Bagi saya, **integritas, empati, dan konsistensi** adalah tiga pilar utama dalam hidup. Saya mencoba menjaga agar setiap langkah yang saya ambil — baik dalam studi, organisasi, maupun hubungan antar manusia — selalu berpijak pada nilai-nilai itu.
+
+Saya tidak percaya pada kesuksesan instan.  
+Saya lebih menghargai proses: bagaimana seseorang terus belajar, memperbaiki diri, dan tumbuh secara perlahan tapi pasti.
+
+Saya juga berpegang pada prinsip bahwa **kerendahan hati bukan berarti merendahkan diri**,  
+melainkan kesadaran bahwa setiap orang punya sesuatu yang bisa kita pelajari.
+
+---
+
+## Ketertarikan dan Cara Saya Melihat Dunia
+
+Saya tertarik pada hubungan antara **teknologi dan manusia**, bagaimana data, sistem, dan informasi dapat memperkuat keadilan sosial dan efisiensi kehidupan sehari-hari.  
+Saya ingin berada di posisi di mana saya bisa menghubungkan logika sistem dengan kebutuhan nyata masyarakat.
+
+Selain itu, saya juga memiliki ketertarikan pada Cyber Security.  
+Bidang ini menarik bagi saya karena saya melihat dengan semakin berkembangnya dunia maya, data-data akan semakin rentan untuk dapat di akses secara tidak bertanggung jawab, maka dari itu dengan meningkatkan dan mengembangkan keamanan siber saya berharap dapat mencegah pihak-pihak yang tidak bertanggung jawab. Saya percaya bahwa tidak ada keamanan yang sempurna, dilihat dari itu keamanan siber dapat berkembang secara terus menerus.
+
+Saya percaya bahwa masa depan bukan hanya milik mereka yang bisa membuat sesuatu “berfungsi”,  
+tetapi juga milik mereka yang bisa membuat sesuatu “bermakna”.
+
+---
+
+## Kepribadian dan Kehidupan Sehari-hari
+
+Teman-teman saya sering menggambarkan saya sebagai seseorang yang mudah diajak bicara,  
+meskipun di sisi lain, saya juga menikmati waktu tenang sendirian, tapi juga senang berdiskusi tentang ide baru bersama teman-teman.
+
+Di luar kampus, saya menghabiskan waktu dengan bermain sosial media atau jika ada waktu senggang saya senang untuk bermain game, misalnya Mobile Legends/Clash Royale, saya juga kadang-kadang bermain game laptop.  
+Aktivitas sederhana seperti itu membantu saya tetap waras dan seimbang di tengah padatnya kehidupan akademik.
+
+---
+
+## Harapan dan Visi Pribadi
+
+Saya ingin menjadi seseorang yang mampu berkontribusi bukan hanya melalui pengetahuan teknis,  
+tetapi juga melalui **cara berpikir dan cara memperlakukan orang lain**.  
+Saya ingin pekerjaan saya apa pun bentuknya nanti dapat membantu orang memahami bahwa teknologi dan kemanusiaan tidak harus berjalan terpisah.
+
+Di masa depan, saya berharap dapat memberikan dampak besar positif bagi masyarakat.  
+Bukan demi reputasi, tapi agar saya bisa menjalani hidup dengan rasa cukup — cukup tahu, cukup bermanfaat, dan cukup damai dengan diri sendiri.
+
+---
+
+## Refleksi Penutup
+
+Jika saya diminta merangkum siapa saya dalam satu kalimat, mungkin saya akan berkata:
+
+> *“Saya masih belajar memahami dunia dan mungkin, itu justru hal terbaik yang bisa saya lakukan sekarang.”*
+
+Saya percaya bahwa kedewasaan bukan soal umur atau pencapaian, melainkan tentang kesediaan untuk terus belajar dari setiap pengalaman, tanpa kehilangan rasa ingin tahu dan empati terhadap orang lain.
+
+---
+
+## Kontak
+
+- **Instagram:** [adrian_assyauqi](https://instagram.com/adrian_assyauqi)  
+- **Email:** [adrianassyauqi@gmail.com](mailto:adrianassyauqi@gmail.com)
