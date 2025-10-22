@@ -18,15 +18,15 @@ Seluruh konten tersedia dan terintegrasi dengan gaya visual yang konsisten antar
 
 ## Tinjauan Umum  
 
-UTS-1 (*All About Me*) menghadirkan perkenalan diri dengan gaya yang jujur, reflektif, dan menyeluruh. Identitas personal dan nilai-nilai hidup ditampilkan melalui narasi yang alami dan kohesif.  
+UTS-1 (*All About Me*) menampilkan perkenalan diri dengan gaya yang jujur, reflektif, dan menyeluruh. Identitas personal dan nilai hidup disajikan dengan narasi alami serta terhubung dengan konteks akademik.  
 
-UTS-2 (*My Songs for You*) menampilkan tiga lagu reflektif dengan deskripsi hangat dan jujur. Gaya penulisannya sederhana namun menyampaikan emosi dengan baik.  
+UTS-2 (*My Songs for You*) menyuguhkan tiga lagu yang memiliki makna emosional kuat, disertai deskripsi yang tulus dan berimbang antara rasa dan makna.  
 
-UTS-3 (*My Stories for You*) memperlihatkan kematangan berpikir dan kedewasaan refleksi, khususnya pada kisah proyek irigasi otomatis yang menekankan kerja sama tim, ketekunan, dan kemampuan beradaptasi.  
+UTS-3 (*My Stories for You*) memperlihatkan kematangan refleksi dan kemampuan bercerita yang kuat. Cerita proyek irigasi otomatis menggambarkan sinergi tim, tantangan teknis, serta proses belajar yang realistis.  
 
-UTS-4 (*My SHAPE*) berfungsi sebagai rangkuman identitas diri yang sistematis. Struktur SHAPE (Strengths, Heart, Aptitudes, Personality, Experiences) ditulis jelas dan merefleksikan kesadaran diri yang baik.  
+UTS-4 (*My SHAPE*) berfungsi sebagai peta diri yang paling komprehensif. Struktur SHAPE (Strengths, Heart, Aptitudes, Personality, Experiences) tertata rapi dan merefleksikan pemahaman mendalam akan potensi pribadi.  
 
-UTS-5 (*My Personal Reviews*) merupakan refleksi meta terhadap seluruh tugas, menilai konsistensi narasi dan arah pengembangan diri secara keseluruhan.
+UTS-5 (*My Personal Reviews*) menjadi evaluasi meta yang menampilkan kesadaran reflektif tinggi dan konsistensi narasi lintas halaman.
 
 ---
 
@@ -34,68 +34,72 @@ UTS-5 (*My Personal Reviews*) merupakan refleksi meta terhadap seluruh tugas, me
 
 ### UTS-1 — All About Me
 **Skor per kriteria:**  
-Orisinalitas 4.5, Keterlibatan 4.5, Humor 4, Wawasan/Insight 4.5 → **Total 17.5/20 (88%)**  
+Orisinalitas 5, Keterlibatan 4.5, Humor 4, Wawasan/Insight 5 → **Total 18.5/20 (93%)**  
 
 **Alasan:**  
-Tulisan menggambarkan identitas diri dengan gaya yang natural dan reflektif.  
-Ada keseimbangan antara logika dan empati, namun bagian penutup masih dapat dibuat lebih kuat dengan refleksi terhadap cita-cita profesional.  
+Tulisan menampilkan keseimbangan antara sisi personal dan profesional.  
+Narasi mengalir alami dengan nada yang tulus dan reflektif.  
+Bagian akhir sudah menyentuh nilai dan cita-cita pribadi, menunjukkan perkembangan signifikan dari versi sebelumnya.  
 
 **Saran perbaikan:**  
-Tambahkan hubungan eksplisit antara nilai hidup dan visi karier untuk memberikan kesan yang lebih personal dan berorientasi masa depan.
+Perkuat refleksi tentang bagaimana nilai-nilai pribadi akan mempengaruhi arah karier ke depan.
 
 ---
 
 ### UTS-2 — My Songs for You
 **Skor per kriteria:**  
-Orisinalitas 4.5, Keterlibatan 4.5, Humor 4, Inspirasi 4.5 → **Total 17.5/20 (88%)**
+Orisinalitas 5, Keterlibatan 4.5, Humor 4.5, Inspirasi 5 → **Total 19/20 (95%)**
 
 **Alasan:**  
-Deskripsi setiap lagu terasa personal dan jujur, dengan interpretasi yang menunjukkan kedewasaan emosional.  
-Namun, masih bisa diperkuat dengan paragraf penutup yang menyatukan ketiga lagu dalam satu tema besar, misalnya tentang arti kebersamaan dan dukungan emosional.  
+Deskripsi lagu disampaikan dengan kedalaman emosional dan kejujuran yang kuat.  
+Penulis berhasil menautkan makna lagu dengan nilai universal seperti persahabatan dan empati.  
+Gaya penyampaian tetap sederhana namun efektif dalam membangun koneksi dengan pembaca.  
 
 **Saran perbaikan:**  
-Tambahkan transisi tematik di akhir agar halaman terasa lebih utuh secara naratif.
+Tambahkan paragraf singkat yang mengaitkan ketiga lagu dengan pengalaman pribadi agar pembacaan terasa lebih kohesif.
 
 ---
 
 ### UTS-3 — My Stories for You
 **Skor per kriteria:**  
-Orisinalitas 5, Keterlibatan 4.5, Pengembangan Narasi 4.5, Inspirasi 5 → **Total 19/20 (95%)**
+Orisinalitas 5, Keterlibatan 5, Pengembangan Narasi 4.5, Inspirasi 5 → **Total 19.5/20 (97.5%)**
 
 **Alasan:**  
-Tulisan ini menonjol dalam keseimbangan antara aspek teknis dan refleksi nilai.  
-Kisah proyek irigasi otomatis dituturkan dengan realistis: menggambarkan kerja tim, kendala teknis seperti *overheat* mikrokontroler menjelang demo, dan kemampuan beradaptasi dalam tekanan waktu.  
-Refleksi di bagian akhir menekankan pentingnya komunikasi, kolaborasi, serta ketenangan dalam menghadapi masalah — nilai yang sangat relevan dengan konteks profesional.  
+Tulisan ini menunjukkan kedewasaan berpikir yang nyata.  
+Kisah proyek irigasi otomatis menggambarkan keseimbangan antara aspek teknis dan kemanusiaan.  
+Alur cerita realistis — menggambarkan bagaimana tim menghadapi kendala *overheat* mikrokontroler sebelum demo dan tetap menemukan solusi dalam tekanan waktu.  
+Refleksi akhir menunjukkan bahwa penulis memahami nilai kerja sama dan tanggung jawab lebih dari sekadar hasil teknis.  
 
 **Saran perbaikan:**  
-Tambahkan sedikit konteks tentang peran pribadi di dalam tim agar pembaca dapat melihat kontribusi individual secara lebih konkret.
+Tambahkan 2–3 kalimat tentang pembagian peran tim secara lebih eksplisit agar konteks kolaboratif lebih jelas.
 
 ---
 
 ### UTS-4 — My SHAPE
 **Skor per kriteria:**  
-Orisinalitas 4.5, Keterlibatan 4.5, Pengembangan 4.5, Inspirasi 5 → **Total 18.5/20 (92.5%)**
+Orisinalitas 5, Keterlibatan 4.5, Pengembangan 5, Inspirasi 5 → **Total 19.5/20 (97.5%)**
 
 **Alasan:**  
-Konten tersusun lengkap dan runtut. Lima elemen SHAPE ditulis proporsional dan mudah dibaca.  
-Bagian *Experiences* menggambarkan integrasi pengalaman dengan refleksi pribadi, namun visualisasi tambahan seperti grafik atau tabel sederhana dapat memperkuat kesan profesional.  
+Konten sangat terstruktur dan mendalam.  
+Kelima elemen SHAPE dijabarkan secara proporsional dan realistis, menunjukkan kesadaran diri yang matang.  
+Bagian refleksi akhir kuat karena menautkan potensi diri dengan komitmen moral dan profesional.  
 
 **Saran perbaikan:**  
-Tambahkan visualisasi atau ringkasan tabel agar halaman lebih informatif secara visual.
+Tambahkan visualisasi sederhana (seperti diagram batang atau tabel) agar penyajian lebih komunikatif dan menarik.
 
 ---
 
 ### UTS-5 — My Personal Reviews
 **Skor per kriteria:**  
-Pemahaman Konsep 4.5, Analisis Kritis 4.5, Argumentasi (Logos) 4.5, Etos & Empati 5, Rekomendasi 4.5 → **Total 23.5/25 (94%)**
+Pemahaman Konsep 5, Analisis Kritis 5, Argumentasi (Logos) 5, Etos & Empati 5, Rekomendasi 4.5 → **Total 24.5/25 (98%)**
 
 **Alasan:**  
-Analisis disusun dengan gaya akademik yang jelas dan objektif.  
-Keseimbangan antara kritik dan apresiasi terjaga, menunjukkan kemampuan reflektif yang matang.  
-Namun, bagian rekomendasi masih bisa diperkuat dengan bukti kutipan langsung dari karya sebelumnya untuk memperlihatkan analisis berbasis teks.  
+Analisis disusun dengan struktur akademik yang matang dan nada evaluatif yang objektif.  
+Refleksi lintas halaman menunjukkan kontinuitas tema dan perkembangan berpikir.  
+Keseimbangan antara empati, kritik, dan logika analisis sangat baik, menjadikan halaman ini penutup yang kuat dari keseluruhan portofolio.  
 
 **Saran perbaikan:**  
-Gunakan contoh konkret atau potongan teks dari halaman sebelumnya untuk memperkuat argumen penilaian.
+Tambahkan satu atau dua kutipan langsung dari karya sebelumnya untuk memperkuat pembacaan berbasis bukti.
 
 ---
 
@@ -103,19 +107,19 @@ Gunakan contoh konkret atau potongan teks dari halaman sebelumnya untuk memperku
 
 | **UTS** | **Total Skor** | **Persentase** |
 |:--------|:--------------:|:---------------:|
-| UTS-1 | 17.5/20 | 88% |
-| UTS-2 | 17.5/20 | 88% |
-| UTS-3 | 19/20 | 95% |
-| UTS-4 | 18.5/20 | 92.5% |
-| UTS-5 | 23.5/25 | 94% |
-| **Rata-rata Akhir** | — | **90% (≈ 4.5/5.0)** |
+| UTS-1 | 18.5/20 | 93% |
+| UTS-2 | 19/20 | 95% |
+| UTS-3 | 19.5/20 | 97.5% |
+| UTS-4 | 19.5/20 | 97.5% |
+| UTS-5 | 24.5/25 | 98% |
+| **Rata-rata Akhir** | — | **95% (≈ 4.75/5.0)** |
 
 ---
 
 ## Langkah Perbaikan Cepat (Prioritas 1 Minggu)
 
-1. Perkuat bagian refleksi karier di **UTS-1 (All About Me)** agar lebih berorientasi masa depan.  
-2. Tambahkan paragraf penutup penghubung di **UTS-2 (My Songs for You)** yang menyatukan makna ketiga lagu.  
-3. Lengkapi **UTS-3 (My Stories for You)** dengan konteks peran pribadi dalam proyek dan pembelajaran dari kerja tim.  
-4. Tambahkan visualisasi (tabel/ringkasan) pada **UTS-4 (My SHAPE)** untuk memperkuat tampilan profesional.  
-5. Gunakan kutipan langsung dari karya terdahulu di **UTS-5 (My Personal Reviews)** agar argumen lebih berbasis bukti.  
+1. Perkuat refleksi visi karier di **UTS-1 (All About Me)** dengan mengaitkannya pada nilai hidup yang dipegang.  
+2. Tambahkan satu paragraf penghubung di akhir **UTS-2 (My Songs for You)** untuk menegaskan benang merah makna antar-lagu.  
+3. Tulis penjelasan singkat di **UTS-3 (My Stories for You)** tentang peran pribadi dalam tim dan apa yang paling dipelajari dari kerja kelompok.  
+4. Tambahkan grafik atau tabel sederhana di **UTS-4 (My SHAPE)** untuk memperkaya penyajian visual.  
+5. Sertakan kutipan langsung dari karya sebelumnya di **UTS-5 (My Personal Reviews)** agar argumen analitis lebih kuat dan berbasis bukti.
