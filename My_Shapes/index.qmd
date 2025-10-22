@@ -15,7 +15,7 @@ saya mencoba mengenali pola unik yang membentuk cara saya berpikir, bertindak, d
    Saya memiliki dorongan alami untuk memberikan hasil terbaik dalam bidang apa pun yang saya tekuni. Ambisi ini bukan tentang mengalahkan orang lain, tetapi tentang menantang diri sendiri agar terus berkembang. Saya percaya bahwa kualitas terbaik muncul ketika seseorang konsisten bekerja keras dan tidak cepat puas.
 
 3. **Cepat Beradaptasi dengan Lingkungan**  
-   Saya mudah menyesuaikan diri dengan orang, situasi, dan ritme kerja yang berbeda. Dalam tim baru, saya bisa membaca dinamika sosial dan mencari cara berkontribusi yang paling efektif. Kemampuan ini membuat saya nyaman berada di berbagai konteks — akademik, organisasi, maupun sosial.
+   Saya mudah menyesuaikan diri dengan orang, situasi, dan ritme kerja yang berbeda. Dalam tim baru, saya bisa membaca dinamika sosial dan mencari cara berkontribusi yang paling efektif. Kemampuan ini membuat saya nyaman berada di berbagai konteks akademik, organisasi, maupun sosial.
 
 > *Saya merasa paling hidup ketika saya belajar hal baru, menghadapi tantangan sulit, dan melihat hasil nyata dari usaha saya.*
 
@@ -32,21 +32,21 @@ saya mencoba mengenali pola unik yang membentuk cara saya berpikir, bertindak, d
 3. **Teknologi**  
    Saya memiliki minat besar terhadap dunia teknologi, bukan hanya dari sisi teknisnya, tetapi juga bagaimana teknologi dapat memecahkan masalah manusia. Saya tertarik pada ide bahwa inovasi yang baik bukan hanya tentang efisiensi, tetapi juga tentang empati dan manfaat sosial.
 
-> *Nilai-nilai ini membuat saya ingin membangun lingkungan yang positif, produktif, dan manusiawi — baik dalam tim maupun kehidupan sehari-hari.*
+> *Nilai-nilai ini membuat saya ingin membangun lingkungan yang positif, produktif, dan manusiawi baik dalam tim maupun kehidupan sehari-hari.*
 
 ---
 
 ## A - Aptitudes & Acquired Skills (Bakat & Keterampilan)
 
 **Hard Skills**  
-- **Desain Sistem Informasi** - mampu merancang alur sistem yang efisien, terstruktur, dan sesuai kebutuhan pengguna.  
-- **Coding** - memiliki kemampuan dalam pemrograman untuk membangun solusi digital yang fungsional.  
-- **Analisis Data** - memahami bagaimana data dapat diubah menjadi insight untuk mendukung keputusan dan strategi.
+1. **Desain Sistem Informasi** - mampu merancang alur sistem yang efisien, terstruktur, dan sesuai kebutuhan pengguna.  
+2. **Coding** - memiliki kemampuan dalam pemrograman untuk membangun solusi digital yang fungsional.  
+3. **Analisis Data** - memahami bagaimana data dapat diubah menjadi insight untuk mendukung keputusan dan strategi.
 
 **Soft Skills**  
-- **Kepemimpinan** - mampu memotivasi dan mengarahkan tim dengan jelas, sekaligus terbuka terhadap masukan.  
-- **Public Speaking** - dapat menyampaikan ide secara sistematis dan menarik di depan berbagai audiens.  
-- **Problem Solving** - terbiasa menghadapi masalah dengan berpikir analitis dan mencari solusi yang praktis.
+1. **Kepemimpinan** - mampu memotivasi dan mengarahkan tim dengan jelas, sekaligus terbuka terhadap masukan.  
+2. **Public Speaking** - dapat menyampaikan ide secara sistematis dan menarik di depan berbagai audiens.  
+3. **Problem Solving** - terbiasa menghadapi masalah dengan berpikir analitis dan mencari solusi yang praktis.
 
 > *Saya percaya keterampilan bukan hanya tentang apa yang bisa saya lakukan, tetapi juga tentang bagaimana saya menggunakannya untuk sesuatu yang bermakna.*
 

@@ -1,6 +1,7 @@
-## UTS-3 My Stories for You
+# UTS-3 My Stories for You
 
-Saya percaya bahwa ilmu teknologi bukan hanya untuk kemajuan pribadi, tetapi juga untuk menciptakan manfaat nyata bagi banyak orang. Dari situ, saya berusaha mengembangkan diri agar tidak hanya memahami teori, melainkan juga mampu menerapkannya dalam solusi yang berdampak.
+Saya percaya bahwa ilmu teknologi bukan hanya untuk kemajuan pribadi, tetapi juga untuk menciptakan manfaat nyata bagi banyak orang.  
+Dari situ, saya berusaha mengembangkan diri agar tidak hanya memahami teori, melainkan juga mampu menerapkannya dalam solusi yang berdampak.
 
 ---
 
@@ -8,38 +9,46 @@ Saya percaya bahwa ilmu teknologi bukan hanya untuk kemajuan pribadi, tetapi jug
 
 Saya tidak datang dari latar belakang yang penuh dengan pengalaman organisasi atau sertifikat prestasi. Justru dari kekurangan itu saya belajar arti kerja keras dan ketekunan. Saya memilih berfokus pada proses belajar dan pengalaman yang bisa mengasah kemampuan berpikir serta kepekaan sosial.
 
-Salah satu alasan utama saya menekuni bidang ini adalah keinginan untuk meringankan beban orang tua,  
-sekaligus mengasah diri agar bisa menjadi seseorang yang bermanfaat di masa depan.
-
----
-
-## Prinsip dan Nilai Hidup
-
-Saya selalu berpegang pada prinsip: hasil nyata lebih berharga daripada banyak bicara. Dalam setiap tugas atau proyek, saya berusaha memetakan masalah secara sistematis, merancang solusi yang masuk akal, dan terus memperbaikinya berdasarkan masukan.
-
-Saya percaya bahwa kerja keras dan keinginan belajar terus-menerus adalah kunci agar saya bisa tumbuh menjadi pribadi yang andal dan rendah hati.
+Salah satu alasan utama saya menekuni bidang ini adalah keinginan untuk meringankan beban orang tua, sekaligus mengasah diri agar bisa menjadi seseorang yang bermanfaat di masa depan. Saya percaya bahwa kemampuan bukan hanya tentang apa yang kita kuasai, tetapi juga tentang seberapa besar kita bisa menggunakannya untuk memberi dampak positif.
 
 ---
 
 ## Kisah Inspiratif: Dari Langkah Kecil Menuju Dampak Nyata
 
-Ada satu momen yang saya ingat jelas. Saat menguji prototipe sistem irigasi didalam sebuah proyek kecil di lahan percobaan kecil, saya sempat ragu karena alat yang saya buat masih sederhana. Namun, setelah beberapa kali perbaikan, sistem itu akhirnya bekerja sesuai harapan. Sensor berhasil mengatur penyiraman sesuai tingkat kelembapan tanah, dan panel surya menyediakan daya cukup sepanjang hari.
+![PROJECT](PRD.jpg){width=100%}
 
-Rasanya luar biasa melihat sesuatu yang saya buat sendiri bisa berfungsi dan memberi manfaat nyata, meskipun dalam skala kecil.  
+Salah satu pengalaman yang paling berkesan bagi saya terjadi ketika saya dan tim mengerjakan proyek mata kuliah Pengenalan Rekayasa dan Desain yaitu merancang sistem irigasi otomatis berbasis mikrokontroler ESP32 dengan tenaga surya. Tujuan kami sederhana namun bermakna: membantu petani atau pemilik lahan kecil agar penyiraman tanaman bisa berlangsung otomatis berdasarkan tingkat kelembapan tanah, tanpa perlu bergantung pada pasokan listrik konvensional.
 
-Dari pengalaman itu saya belajar bahwa keberhasilan tidak selalu datang dari proyek besar atau fasilitas lengkap. Kadang, kemauan untuk mencoba dan memperbaiki diri justru menjadi titik awal perubahan yang lebih besar. Saya ingin terus menjaga semangat itu, agar setiap langkah kecil saya bisa memberi dampak positif bagi orang lain.
+Awalnya, proyek ini terlihat mudah. Kami membagi peran: beberapa anggota fokus pada rangkaian elektronik, sebagian menulis program, dan saya sendiri bertanggung jawab dalam integrasi serta pengujian sistem secara keseluruhan. Namun, kenyataannya jauh lebih menantang dari yang kami bayangkan. Sensor sering memberikan pembacaan yang tidak konsisten, beberapa kabel mudah lepas, dan sistem sempat tidak stabil ketika diuji di lapangan.
+
+Masalah terbesar datang satu hari sebelum demo ketika mikrokontroler utama kami mengalami overheat dan rusak total. Waktu itu kami sempat terdiam seluruh kerja keras selama berminggu-minggu terasa seperti sia-sia. Namun, bukannya menyerah, kami memutuskan untuk tetap mencoba mencari solusi.
+
+Kami bekerja hingga larut malam, dan beberapa jam sebelum demo, alat kami berhasil berfungsi kembali tidak sepenuhnya sempurna, tetapi cukup untuk menampilkan prinsip kerja utama: penyiraman otomatis berdasarkan kelembapan tanah. Demo berjalan lancar dan alat dapat beroperasi dengan baik meski belum sesuai target awal.
+
+Setelah demo selesai, kami memperbaiki rangkaian dan melakukan kalibrasi ulang agar alat dapat bekerja lebih stabil. Hasil akhirnya memuaskan alat dapat berfungsi sesuai rancangan dan lebih tahan terhadap panas berlebih.
+
+Dari pengalaman ini, saya belajar bahwa proyek yang baik bukan berarti tanpa hambatan, tetapi justru tentang bagaimana tim merespons hambatan dengan kerja sama dan ketenangan.  
+Kami menyadari bahwa kemampuan teknis saja tidak cukup, komunikasi, koordinasi, dan keteguhan mental sama pentingnya dalam menyelesaikan masalah.  
+
+> *Saya belajar bahwa inovasi tidak selalu tentang kesempurnaan,  
+> tetapi tentang kemauan untuk terus memperbaiki diri dan beradaptasi di tengah tantangan.*
 
 ---
 
 ## Refleksi Pribadi
 
-Jika saya melihat perjalanan saya sejauh ini, satu hal yang paling saya syukuri adalah kesempatan untuk belajar bukan hanya tentang teknologi, tetapi juga tentang kehidupan.  
-Saya belajar bahwa kegigihan, rasa ingin tahu, dan kemampuan untuk beradaptasi adalah bekal paling berharga. Saya tidak sempurna, tapi saya selalu berusaha menjadi versi terbaik dari diri saya setiap harinya.
+Melihat kembali perjalanan ini, saya merasa bersyukur karena setiap pengalaman baik yang berhasil maupun yang sempat membuat frustrasi selalu membawa pelajaran baru. Saya belajar bahwa dalam dunia teknologi, kesalahan bukanlah kegagalan, melainkan bagian dari proses pembelajaran yang sesungguhnya.
+
+Kegigihan, rasa ingin tahu, dan kemampuan beradaptasi menjadi bekal paling berharga yang saya temukan selama perjalanan ini. Saya menyadari bahwa kemampuan memecahkan masalah teknis tidak akan berarti tanpa kemampuan memahami manusia yang ada di baliknya teman, rekan, atau siapa pun yang bekerja bersama saya.
 
 ---
 
 ## Penutup
 
-Saya percaya bahwa setiap orang punya kisah perjuangan yang unik. Kisah saya mungkin sederhana, tapi saya berharap dapat menginspirasi orang lain untuk mulai dari apa yang mereka punya, bekerja keras dengan integritas, dan tidak takut untuk mencoba.  
+Saya percaya bahwa setiap orang punya kisah perjuangan yang unik.  
+Kisah saya mungkin sederhana, tetapi saya berharap dapat menginspirasi orang lain  
+untuk mulai dari apa yang mereka punya, bekerja keras dengan integritas,  
+dan tidak takut untuk mencoba.  
 
-Karena pada akhirnya, perubahan besar selalu dimulai dari langkah-langkah kecil yang dilakukan dengan niat baik.
+Karena pada akhirnya, perubahan besar selalu dimulai  
+dari langkah-langkah kecil yang dilakukan dengan niat baik dan kerja sama yang tulus.
