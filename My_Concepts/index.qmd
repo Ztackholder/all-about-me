@@ -1,6 +1,88 @@
-# My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
+# UAS-1 My Concepts  
 
-Apa itu berkonsep? 
+---
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+## Fenomena: Kesehatan Global sebagai Masalah Sistemik
+
+![Key Concepts in Global Health](key-concepts-global-health.png)
+
+Masalah kesehatan global saat ini tidak dapat dipahami hanya sebagai persoalan medis atau klinis.  
+Di berbagai belahan dunia, tantangan kesehatan muncul dalam bentuk ketimpangan akses layanan, perbedaan kualitas sistem kesehatan, serta beban penyakit yang tidak merata antar wilayah dan kelompok sosial.
+
+Fenomena ini tercermin dalam tiga konsep utama kesehatan global: health disparities, global health equity, dan health systems strengthening. Ketiganya menunjukkan bahwa persoalan kesehatan bersifat struktural dan saling terkait, bukan berdiri sendiri.
+
+Banyak negara menghadapi keterbatasan tenaga medis, infrastruktur yang tidak merata, serta sistem informasi kesehatan yang terfragmentasi. Akibatnya, pengambilan keputusan sering kali tidak berbasis data yang utuh dan aktual.
+
+Dengan demikian, krisis kesehatan global pada dasarnya adalah krisis sistem dan koordinasi informasi, bukan semata kekurangan sumber daya medis.
+
+## Perspektif Konseptual: Kesehatan sebagai Sistem Sosio Teknologis
+
+Saya memandang kesehatan global sebagai sebuah sistem sosio teknologis, yaitu sistem yang terbentuk dari interaksi antara manusia, teknologi, kebijakan, dan informasi.
+
+Dalam sistem ini, kesehatan bergantung pada beberapa komponen utama:
+
+- **Manusia**, seperti pasien, tenaga kesehatan, peneliti, dan pembuat kebijakan  
+- **Informasi**, seperti data medis, rekam kesehatan, dan statistik populasi  
+- **Teknologi**, termasuk sistem informasi kesehatan, Artificial Intelligence, dan infrastruktur digital  
+- **Keputusan**, yaitu bagaimana informasi diterjemahkan menjadi kebijakan dan tindakan nyata  
+
+Masalah muncul ketika hubungan antar komponen tersebut tidak terintegrasi dengan baik. Data tersebar di berbagai institusi, teknologi berjalan sendiri tanpa konteks sosial, dan keputusan sering kali bersifat reaktif.
+
+## Peran Artificial Intelligence dalam Sistem Informasi Kesehatan
+
+Artificial Intelligence sering dianggap sebagai solusi utama bagi masalah kesehatan global. Namun dalam kerangka Sistem dan Teknologi Informasi, AI seharusnya diposisikan sebagai pendukung sistem, bukan pengambil alih peran manusia.
+
+AI berperan untuk:
+
+- Mengolah data kesehatan dalam skala besar  
+- Membantu analisis pola penyakit dan risiko populasi  
+- Mendukung pengambilan keputusan berbasis informasi  
+
+Tanpa sistem informasi yang terstruktur dan nilai kemanusiaan yang jelas, AI berpotensi menjadi alat optimasi teknis semata, tanpa mempertimbangkan aspek keadilan dan empati. Oleh karena itu, penerapan AI harus selalu berada dalam kerangka STI yang berorientasi pada manusia dan kebermanfaatan sosial.
+
+## Konsep Utama: Health Intelligence Ecosystem
+
+![Healthcare Ecosystem](healthcare-ecosystem.png)
+
+Sebagai fondasi dari *My Masterpiece*, saya mengajukan konsep Health Intelligence Ecosystem, yaitu sebuah ekosistem terpadu yang menghubungkan seluruh aktor kesehatan melalui sistem informasi yang terintegrasi.
+
+Ekosistem ini mencakup:
+
+- Pasien sebagai pusat sistem  
+- Rumah sakit dan laboratorium sebagai penyedia layanan  
+- Perusahaan farmasi dan teknologi sebagai pengembang solusi  
+- Pemerintah dan regulator sebagai pengarah kebijakan  
+- Institusi pendidikan, investor, dan organisasi sosial sebagai pendukung inovasi  
+
+Konsep ini menekankan bahwa masalah kesehatan global tidak dapat diselesaikan oleh satu pihak saja.  
+Diperlukan koordinasi lintas aktor yang difasilitasi oleh sistem informasi yang transparan, aman, dan adaptif.
+
+## Pilar Konseptual Health Intelligence Ecosystem
+
+Konsep ini bertumpu pada tiga pilar utama:
+
+1. **Integrasi Informasi**  
+   Data kesehatan harus terhubung lintas institusi dan wilayah, dengan tetap menjaga privasi dan keamanan pasien.
+
+2. **Teknologi sebagai Enabler**  
+   AI dan sistem digital digunakan untuk membantu manusia memahami kompleksitas data, bukan menggantikan pertimbangan etis dan sosial.
+
+3. **Keputusan Berbasis Nilai Kemanusiaan**  
+   Setiap keputusan sistem harus selaras dengan prinsip keadilan, akses setara, dan peningkatan kualitas hidup masyarakat.
+
+## Keistimewaan Pendekatan Sistem dan Teknologi Informasi
+
+Keunggulan pendekatan Sistem dan Teknologi Informasi terletak pada kemampuannya melihat kesehatan sebagai satu kesatuan sistem.
+
+Pendekatan ini memungkinkan kita untuk:
+
+- Memetakan alur informasi dari pasien hingga kebijakan publik  
+- Mengidentifikasi titik kegagalan sistem kesehatan  
+- Merancang solusi yang bersifat skalabel dan berkelanjutan  
+
+Dengan demikian, STI tidak hanya menjawab apa masalahnya, tetapi juga mengapa masalah itu terjadi dan bagaimana sistem dapat diperbaiki secara menyeluruh.
+
+## Penutup Konseptual
+
+Konsep Health Intelligence Ecosystem menjadi fondasi bagi keseluruhan *My Masterpiece*.  
+Melalui pendekatan ini, penerapan Sistem dan Teknologi Informasi di era Artificial Intelligence diarahkan bukan hanya untuk efisiensi teknis, tetapi untuk memperkuat sistem kesehatan global secara adil, terintegrasi, dan berorientasi pada manusia.

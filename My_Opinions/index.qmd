@@ -1,5 +1,82 @@
-# My Opinions
+# UAS-2 My Opinions  
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+---
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+## Pendahuluan: Mengapa Opini Diperlukan
+
+Masalah kesehatan global tidak hanya membutuhkan data, teknologi, dan sistem yang baik. Ia juga membutuhkan sikap, keberanian, dan kejelasan arah dalam pengambilan keputusan di tengah perkembangan Artificial Intelligence yang sangat cepat.
+
+Tanpa opini yang jelas, penerapan AI berisiko menjadi reaktif dan sekadar mengikuti tren teknologi, bukan menjawab kebutuhan manusia. Dalam konteks kesehatan global, kesalahan arah ini dapat berdampak langsung pada keadilan akses layanan dan keselamatan pasien.
+
+Opini ini berangkat dari satu pertanyaan utama:  
+**Bagaimana seharusnya AI dan Sistem Teknologi Informasi digunakan dalam menghadapi masalah kesehatan global secara bertanggung jawab, adil, dan berorientasi pada manusia?**
+
+## Posisi Utama: AI Harus Menguatkan Sistem, Bukan Menggantikan Manusia
+
+![Human Centered Health Intelligence with AI in Global Healthcare](human-centered-health-ai.png)
+
+Saya berpendapat bahwa sikap paling tepat dalam menghadapi masalah kesehatan global adalah menempatkan AI sebagai penguat sistem kesehatan, bukan sebagai pengganti peran manusia. Kolaborasi manusia dan Artificial Intelligence dalam sistem kesehatan global dengan nilai empati, etika, dan pengambilan keputusan. AI tidak berdiri di depan manusia sebagai pengambil keputusan utama, melainkan berada di samping manusia sebagai pendukung analisis dan penguat sistem.
+
+Kesehatan bukan hanya persoalan akurasi diagnosis atau efisiensi layanan. Ia menyangkut nilai kemanusiaan, empati, konteks sosial, serta tanggung jawab moral.
+
+AI bekerja berdasarkan pola data masa lalu. Jika data tersebut bias, tidak lengkap, atau merepresentasikan ketimpangan struktural, maka keputusan yang dihasilkan AI juga berpotensi bias. Oleh karena itu, keputusan akhir dalam sistem kesehatan harus tetap berada di tangan manusia.
+
+Dalam pandangan saya, AI seharusnya:
+
+- Membantu manusia memahami kompleksitas data
+- Memberikan rekomendasi berbasis analisis
+- Memperkuat kapasitas pengambilan keputusan manusia
+
+Bukan menggantikan peran profesional kesehatan maupun pembuat kebijakan.
+
+## Kritik terhadap Pendekatan Teknologi yang Terlalu Teknosentris
+
+Salah satu kecenderungan yang saya nilai bermasalah dalam penerapan AI kesehatan adalah pendekatan yang terlalu teknosentris.
+
+Pendekatan ini biasanya ditandai oleh:
+
+- Fokus berlebihan pada performa algoritma
+- Pengukuran keberhasilan hanya dari sisi teknis
+- Pengabaian konteks sosial, budaya, dan ekonomi pasien
+
+Akibatnya, sistem yang dibangun mungkin efisien secara komputasi, tetapi tidak adil secara sosial. Dalam skala global, pendekatan ini justru berpotensi memperlebar kesenjangan layanan kesehatan antara wilayah maju dan wilayah tertinggal.
+
+Menurut saya, keputusan terbaik bukan mempercepat adopsi AI, melainkan memastikan bahwa fondasi sistem informasi kesehatan sudah kuat, terintegrasi, dan beretika.
+
+## Sikap yang Perlu Diambil: Human Centered Health Intelligence
+
+Saya mengusulkan sikap human centered health intelligence sebagai landasan pengambilan keputusan dalam penerapan AI di bidang kesehatan global.
+
+Sikap ini menegaskan bahwa:
+
+- Pasien tetap menjadi pusat sistem
+- AI berfungsi sebagai alat bantu analisis
+- Keputusan akhir tetap berada pada tenaga kesehatan dan pembuat kebijakan
+- Nilai empati, etika, dan keadilan harus melekat dalam sistem
+
+Pendekatan ini sejalan dengan prinsip bahwa teknologi seharusnya memperkuat martabat manusia, bukan menguranginya.
+
+## Keputusan Strategis yang Perlu Diprioritaskan
+
+Berdasarkan opini saya, terdapat tiga keputusan strategis yang harus diprioritaskan dalam menghadapi masalah kesehatan global di era Artificial Intelligence:
+
+1. **Integrasi Sistem Informasi Kesehatan**  
+   Sistem informasi kesehatan harus terintegrasi lintas institusi dan wilayah sebelum AI diterapkan secara luas.
+
+2. **Penguatan Tata Kelola dan Etika AI Kesehatan**  
+   Transparansi algoritma, akuntabilitas keputusan, serta perlindungan data pasien harus menjadi prasyarat utama.
+
+3. **Peningkatan Literasi Digital Pemangku Kepentingan**  
+   Tenaga kesehatan dan pembuat kebijakan harus memahami cara kerja dan keterbatasan AI agar tidak terjadi ketergantungan buta pada sistem.
+
+Tanpa keputusan strategis ini, AI berisiko menjadi solusi semu yang hanya memperbaiki gejala, bukan akar masalah sistem kesehatan.
+
+## Penutup Opini
+
+Sebagai penutup, saya meyakini bahwa masa depan kesehatan global tidak ditentukan oleh seberapa canggih teknologi yang digunakan, tetapi oleh bagaimana manusia memilih untuk menggunakannya.
+
+Artificial Intelligence dan Sistem Teknologi Informasi seharusnya menjadi alat untuk:
+
+- Memperkuat keadilan
+- Memperluas akses layanan kesehatan
+- Meningkatkan kualitas hidup manusia secara kolektif

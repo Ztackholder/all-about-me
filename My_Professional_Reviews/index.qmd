@@ -1,5 +1,114 @@
-# My Professional Reviews
-Untuk melkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
-- Rubrik [Kisah](Dok.4.a.Rubrik_Kisah.pdf)
-- Rubrik [Konsep](Dok.4.b.Rubrik_Konsep.pdf)
-- Rubrik [Opini](Dok.4.c.Rubrik_Opini.pdf)
+# UAS-5 My Professional Reviews 
+
+## Hasil Self-Assessment UAS  
+(URL: [https://ztackholder.github.io/all-about-me/](https://ztackholder.github.io/all-about-me/))
+
+## Penilaian Peer-Assessment
+**(URL: [Peer-Assessment](https://docs.google.com/spreadsheets/d/17ZnTNk7ylKsAr_9DvKycX8nrQBgZKOuadPbBVXkYHc8/edit?usp=sharing))**
+
+---
+
+## Identifikasi  
+**Nama & NIM Penulis:** Adrian Akhdan Assyauqi - 18224055  
+
+**Penilai:** Self-assessment (Adrian Akhdan Assyauqi)  
+
+**Catatan Cakupan:**  
+Evaluasi ini mencakup keseluruhan rangkaian UAS yang terdiri dari “My Concepts”, “My Opinions”, “My Innovations”, dan “My Knowledge”.  
+Seluruh bagian disusun dengan satu tema besar, yaitu *My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence* dengan fokus pada masalah kesehatan global.  
+Konten terintegrasi secara konseptual, konsisten dalam sudut pandang Sistem dan Teknologi Informasi, serta menekankan pendekatan human centered intelligence.
+
+---
+
+## Tinjauan Umum  
+
+UAS-1 (*My Concepts*) membangun kerangka konseptual yang memposisikan kesehatan global sebagai masalah sistemik, bukan semata persoalan klinis.  
+
+UAS-2 (*My Opinions*) menyampaikan sikap normatif dan kritis terhadap pemanfaatan Artificial Intelligence, dengan penekanan bahwa AI harus menguatkan sistem dan keputusan manusia.  
+
+UAS-3 (*My Innovations*) menerjemahkan konsep dan opini ke dalam desain inovasi sistem informasi berupa *Health Intelligence Hub* yang realistis dan berorientasi etika.  
+
+UAS-4 (*My Knowledge*) memperlihatkan basis pengetahuan Sistem dan Teknologi Informasi yang mendasari seluruh konsep, opini, dan inovasi yang diajukan.  
+
+Secara keseluruhan, rangkaian UAS ini menunjukkan kesinambungan narasi, konsistensi nilai, dan kedewasaan berpikir sistemik.
+
+---
+
+## Tinjauan Spesifik + Skor (Skala 1–5)
+
+### UAS-1 — My Concepts
+**Skor per kriteria:**  
+Clarity 4.5, Logic 4.5, Validity 4.5, Usefulness 4.5 → **Rata-rata 4.5/5**
+
+**Alasan:**  
+Konsep disampaikan dengan jelas dan runtut, dimulai dari fenomena hingga kerangka solusi konseptual.  
+Logika argumentasi konsisten dan mencerminkan pemahaman sistemik.  
+Validitas cukup kuat dalam konteks konseptual STI.  
+Konsep Health Intelligence Ecosystem relevan dan aplikatif sebagai fondasi masterpiece.  
+
+**Saran perbaikan:**  
+Validitas dapat diperkuat melalui penyertaan referensi empiris atau contoh implementasi nyata.
+
+---
+
+### UAS-2 — My Opinions
+**Skor per kriteria:**  
+Compelling 4.5, Informative 4.5, Persuasive 4.5, Engaging 5 → **Rata-rata 4.6/5**
+
+**Alasan:**  
+Opini disampaikan dengan posisi yang tegas dan konsisten.  
+Argumentasi informatif dan mempertimbangkan aspek etika serta keadilan sosial.  
+Tulisan cukup meyakinkan dan mampu melibatkan pembaca melalui alur reflektif yang kuat.  
+
+**Saran perbaikan:**  
+Penambahan ilustrasi kasus nyata dapat memperkuat daya persuasi secara kontekstual.
+
+---
+
+### UAS-3 — My Innovations
+**Skor per kriteria:**  
+Nilai Guna 4.5, Kebaruan 4, Desain & Kelayakan 4.5, Dampak terhadap KIPP 5 → **Rata-rata 4.5/5**
+
+**Alasan:**  
+Health Intelligence Hub memiliki nilai guna yang jelas bagi berbagai pemangku kepentingan.  
+Desain sistem berlapis realistis dan konsisten dengan pendekatan STI.  
+Dampak terhadap CPMK sangat kuat karena mengintegrasikan konsep, desain, dan etika.  
+
+**Saran perbaikan:**  
+Aspek kebaruan dapat diperjelas dengan penekanan fitur diferensiatif atau skenario implementasi spesifik.
+
+---
+
+### UAS-4 — My Knowledge
+**Skor per kriteria:**  
+Kurasi Pengetahuan 4.5, Keterjelasan Penyajian Publik 4.5, Akurasi & Sumber 4.5, Daya Guna Publik 5 → **Rata-rata 4.6/5**
+
+**Alasan:**  
+Pengetahuan dikurasi dengan fokus yang jelas pada domain Sistem dan Teknologi Informasi.  
+Penyajian sistematis dan mudah dipahami oleh publik non-klinis.  
+Kerangka siklus informasi kesehatan memperjelas peran AI dalam sistem.  
+
+**Saran perbaikan:**  
+Penyebutan sumber akademik eksplisit akan meningkatkan kredibilitas ilmiah.
+
+---
+
+## Rekap Skor (Ringkas)
+
+| **UAS** | **Rata-rata Level** |
+|:--------|:------------------:|
+| UAS-1 | 4.5 |
+| UAS-2 | 4.6 |
+| UAS-3 | 4.5 |
+| UAS-4 | 4.6 |
+| **Rata-rata Akhir** | **4.6 / 5.0** |
+
+---
+
+## Langkah Perbaikan Cepat (Prioritas 1 Minggu)
+
+1. Tambahkan referensi atau contoh implementasi nyata pada **UAS-1 (My Concepts)** untuk memperkuat validitas.  
+2. Sisipkan ilustrasi kasus singkat pada **UAS-2 (My Opinions)** untuk meningkatkan daya persuasi.  
+3. Perjelas fitur pembeda inovasi pada **UAS-3 (My Innovations)**.  
+4. Tambahkan rujukan akademik eksplisit pada **UAS-4 (My Knowledge)**.  
+5. Pertahankan konsistensi tema dan pendekatan human centered intelligence pada seluruh bagian.

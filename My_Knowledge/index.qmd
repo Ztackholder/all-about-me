@@ -1,7 +1,98 @@
-# My Knowledge
+# UAS-4 My Knowledge  
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## Pengetahuan Sistem dan Teknologi Informasi dalam Transformasi Kesehatan Global di Era Artificial Intelligence
+
+![Health Information System Framework](health-information-framework.png)
+
+---
+
+## Ruang Lingkup Pengetahuan yang Digunakan
+
+Dalam konteks masalah kesehatan global, pengetahuan yang saya gunakan berasal dari bidang Sistem dan Teknologi Informasi, bukan dari sudut pandang klinis atau medis.
+
+Fokus pengetahuan ini meliputi:
+
+- Sistem informasi sebagai sistem sosio teknis
+- Peran Artificial Intelligence dalam pengolahan informasi
+- Hubungan antara data, proses, dan pengambilan keputusan
+- Tata kelola dan etika sistem berbasis AI
+
+Pendekatan ini menempatkan kesehatan global sebagai masalah sistem, bukan hanya masalah layanan medis.
+
+## Sistem Informasi Kesehatan sebagai Sistem Sosio Teknis
+
+Pengetahuan utama yang mendasari *My Masterpiece* adalah bahwa Sistem Informasi Kesehatan merupakan sistem sosio teknis, yaitu sistem yang keberhasilannya ditentukan oleh interaksi antara teknologi dan manusia.
+
+Sistem ini terdiri dari empat elemen pengetahuan inti:
+
+1. **Teknologi Informasi**  
+   Infrastruktur data, sistem basis data, dan aplikasi pendukung layanan kesehatan.
+
+2. **Manusia dan Organisasi**  
+   Pasien, tenaga kesehatan, manajer rumah sakit, dan pembuat kebijakan sebagai pengguna dan pengambil keputusan.
+
+3. **Proses dan Alur Kerja**  
+   Mekanisme pencatatan data, pelaporan, analisis, dan respon kebijakan.
+
+4. **Aturan dan Etika**  
+   Regulasi privasi, keamanan data, serta prinsip keadilan dan akuntabilitas.
+
+Kegagalan sistem kesehatan global sering kali terjadi bukan karena lemahnya satu elemen, tetapi karena ketidaksinkronan antar elemen tersebut.
+
+## Artificial Intelligence dalam Perspektif Sistem Informasi
+
+Dalam pengetahuan Sistem dan Teknologi Informasi, Artificial Intelligence dipahami bukan sebagai entitas otonom, melainkan sebagai komponen pendukung dalam sistem informasi.
+
+AI memberikan nilai tambah ketika:
+
+- Data yang digunakan terstruktur dan representatif
+- Proses bisnis kesehatan terdefinisi dengan jelas
+- Hasil analisis dapat ditelusuri dan dipahami manusia
+
+Sebaliknya, tanpa fondasi sistem informasi yang kuat, AI berisiko:
+
+- Menguatkan bias data
+- Menghasilkan rekomendasi yang tidak kontekstual
+- Mengaburkan tanggung jawab pengambilan keputusan
+
+Pengetahuan ini menjadi dasar mengapa AI dalam kesehatan harus diposisikan sebagai *decision support system*, bukan *decision maker*.
+
+## Kerangka Pengetahuan: Siklus Informasi Kesehatan
+
+![Health Intelligence Lifecycle](health-intelligence-lifecycle.png)
+
+Saya memahami transformasi kesehatan global melalui siklus informasi berikut:
+
+1. **Pengumpulan Data**  
+   Data klinis dan populasi dikumpulkan dari berbagai sumber.
+
+2. **Integrasi dan Manajemen Data**  
+   Data disatukan dalam sistem yang interoperabel dan aman.
+
+3. **Analisis dan Inteligensi**  
+   Artificial Intelligence digunakan untuk mendukung analisis pola dan risiko.
+
+4. **Interpretasi Manusia**  
+   Hasil analisis ditafsirkan oleh tenaga kesehatan dan pembuat kebijakan.
+
+5. **Keputusan dan Tindakan**  
+   Keputusan diambil dengan mempertimbangkan data, konteks sosial, dan nilai kemanusiaan.
+
+Siklus ini menegaskan bahwa pengetahuan manusia tetap menjadi titik kendali utama dalam sistem berbasis AI.
+
+## Kontribusi Pengetahuan STI terhadap Masalah Kesehatan Global
+
+Dari perspektif Sistem dan Teknologi Informasi, kontribusi utama terhadap kesehatan global adalah kemampuan untuk:
+
+- Menghubungkan data individu dan populasi
+- Menyediakan dasar pengambilan keputusan berbasis bukti
+- Mengurangi fragmentasi informasi antar institusi
+- Menjaga keseimbangan antara efisiensi teknologi dan keadilan sosial
+
+Inilah keunggulan pendekatan STI dibandingkan pendekatan yang hanya berfokus pada teknologi atau layanan medis semata.
+
+## Penutup
+
+Di era Artificial Intelligence, tantangan kesehatan global tidak dapat diselesaikan hanya dengan teknologi canggih. Diperlukan pemahaman mendalam tentang bagaimana sistem informasi bekerja, bagaimana manusia berinteraksi dengan teknologi, dan bagaimana keputusan diambil secara bertanggung jawab.
+
+Sebagai mahasiswa Sistem dan Teknologi Informasi, penguasaan pengetahuan inilah yang memungkinkan saya berkontribusi secara rasional, etis, dan berkelanjutan dalam transformasi sistem kesehatan global.
